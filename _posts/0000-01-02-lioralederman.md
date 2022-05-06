@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey tgere, welcome to Liora's GitHub Page!
+wow this is so so cool!
 Use the left arrow to go back!
